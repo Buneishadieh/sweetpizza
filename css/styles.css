@@ -1,0 +1,65 @@
+body{
+    background-color: aqua;
+}
+.navbar
+{
+    background-color: black;
+}
+.nav-link
+.navbar-brand
+{
+    color:#fff;
+    cursor:pointer;
+}
+.nav-link
+{
+    margin-right:em !important;
+}
+.nav-link:hover
+{
+    color:red;
+}
+.navbar-collapse{
+    justify-content: flex-end;
+}
+.navbar span{
+    color:red;
+}
+.header
+{
+    padding-top: 40%;
+    background-image: url("../img/pizza/chicken\ mushroom.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    
+}
+.description {
+    left: 50%;
+    position: absolute;
+    top: 63%;
+    transform: translate(-50%, -55%);
+    text-align: center;
+  }
+  .description h1 {
+    color: red;
+  }
+  .description p {
+    color:red;
+    font-size: 12px;
+    line-height: 1.2;
+  }
+ .footer
+ {
+     
+ }
+ h3
+ {
+     color:green;
+ }
+
+.page-footer{
+    background-color: black;
+    color:white;
+    padding-top: 15px;
+}
