@@ -28,7 +28,7 @@ body{
 .header
 {
     padding-top: 40%;
-    background-image: url("../img/pizza/chicken\ mushroom.jpg");
+    background-image: url("../img/background.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
