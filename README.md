@@ -1,5 +1,4 @@
-
-#SWEETPIZZA
+##SWEETPIZZA
 #### It is used to order and pay for pizza at your confort zone.
 #### By **Bunei Shadrack**
 ## Description
@@ -18,5 +17,5 @@ BOOSTRAP
 In case of any question or inquiry kindly reach me on :
 buneishadrack5@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This app is lincensed under open source license*
 Copyright (c) 2021 **bunei shadrack**
